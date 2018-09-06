@@ -1,4 +1,4 @@
-navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
+.navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
   background: $navbarColor !important;
   border: none;
   a {
@@ -18,4 +18,7 @@ navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
     }
   }
 }
+}
+body {
+ margin-top: 50px;
 }
