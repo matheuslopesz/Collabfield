@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'devise'
 #gem 'sass-rails', '>= 3.2'
 gem 'jquery-rails'
 # Reduces boot times through caching; required in config/boot.rb
