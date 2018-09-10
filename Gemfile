@@ -36,6 +36,7 @@ gem 'headless'
 gem 'capybara'
 gem 'poltergeist'
 gem 'database_cleaner'
+gem 'faker'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'bootstrap-sass', '~> 3.3.6'
